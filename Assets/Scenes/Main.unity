@@ -1890,7 +1890,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Texture
       value: 
-      objectReference: {fileID: 8400000, guid: 19eb49ecb54ae425daadd6f0dbf05671, type: 2}
+      objectReference: {fileID: 8400000, guid: 5943e85ca162c413c8bcc68df89077ff, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2903fefa339d74d05897b39cb1da3fa9, type: 3}
 --- !u!224 &1895387673 stripped
@@ -2357,7 +2357,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Texture
       value: 
-      objectReference: {fileID: 8400000, guid: 76ac5af0311994fd193ce7a072f6a8e8, type: 2}
+      objectReference: {fileID: 8400000, guid: ecd3abdee5601422c8266e597b8ea92a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2903fefa339d74d05897b39cb1da3fa9, type: 3}
 --- !u!1001 &6541890437194624372
