@@ -1407,6 +1407,7 @@ GameObject:
   - component: {fileID: 960207445}
   - component: {fileID: 960207447}
   - component: {fileID: 960207446}
+  - component: {fileID: 960207448}
   m_Layer: 0
   m_Name: Portal1Camera
   m_TagString: Untagged
@@ -1479,6 +1480,19 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!114 &960207448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 960207444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e32c91debd1c4ef694b6ca374ee77db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  display: {fileID: 1895387673}
 --- !u!1 &1089615817
 GameObject:
   m_ObjectHideFlags: 0
@@ -1600,8 +1614,9 @@ GameObject:
   - component: {fileID: 1140883135}
   - component: {fileID: 1140883137}
   - component: {fileID: 1140883136}
+  - component: {fileID: 1140883138}
   m_Layer: 0
-  m_Name: Portal1Camera2
+  m_Name: Portal2Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1672,6 +1687,19 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!114 &1140883138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140883134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e32c91debd1c4ef694b6ca374ee77db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  display: {fileID: 8105673049850733040}
 --- !u!1 &1245243947
 GameObject:
   m_ObjectHideFlags: 0
