@@ -1567,6 +1567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   display: {fileID: 1895387673}
+  width: 3.9
 --- !u!1001 &1000374574
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1777,6 +1778,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   display: {fileID: 8105673049850733040}
+  width: 3.9
 --- !u!1 &1245243947
 GameObject:
   m_ObjectHideFlags: 0
@@ -2027,6 +2029,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1245243948}
     m_Modifications:
+    - target: {fileID: 8139459173260323270, guid: 2903fefa339d74d05897b39cb1da3fa9,
+        type: 3}
+      propertyPath: m_Name
+      value: Portal2 Canvas
+      objectReference: {fileID: 0}
     - target: {fileID: 5155909898779957815, guid: 2903fefa339d74d05897b39cb1da3fa9,
         type: 3}
       propertyPath: m_RootOrder
@@ -2046,11 +2053,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
       value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 8139459173260323270, guid: 2903fefa339d74d05897b39cb1da3fa9,
-        type: 3}
-      propertyPath: m_Name
-      value: Portal2 Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 8105673049850733040, guid: 2903fefa339d74d05897b39cb1da3fa9,
         type: 3}
@@ -2090,7 +2092,7 @@ PrefabInstance:
     - target: {fileID: 8105673049850733040, guid: 2903fefa339d74d05897b39cb1da3fa9,
         type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8105673049850733040, guid: 2903fefa339d74d05897b39cb1da3fa9,
         type: 3}
@@ -2540,6 +2542,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1245243948}
     m_Modifications:
+    - target: {fileID: 8139459173260323270, guid: 2903fefa339d74d05897b39cb1da3fa9,
+        type: 3}
+      propertyPath: m_Name
+      value: Portal1 Canvas
+      objectReference: {fileID: 0}
     - target: {fileID: 6524031158546217708, guid: 2903fefa339d74d05897b39cb1da3fa9,
         type: 3}
       propertyPath: target
@@ -2549,11 +2556,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_RootOrder
       value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 8139459173260323270, guid: 2903fefa339d74d05897b39cb1da3fa9,
-        type: 3}
-      propertyPath: m_Name
-      value: Portal1 Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 8105673049850733040, guid: 2903fefa339d74d05897b39cb1da3fa9,
         type: 3}
